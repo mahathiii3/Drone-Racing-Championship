@@ -152,18 +152,6 @@ git clone https://github.com/mahathiii3/Drone-Racing-Championship.git
 
 ---
 
-## 🎯 Future Improvements
-
-- Multiple Maps
-- Drone Selection System
-- Lap Counter
-- Online Leaderboard
-- Mobile Controls
-- Multiplayer Racing
-- Dynamic Weather Effects
-
----
-
 ## 👩‍💻 Author
 
 ### Mahathi Vaka
